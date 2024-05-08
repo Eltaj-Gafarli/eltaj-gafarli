@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eltaj Gafarli</h1>
 <h3 align="center">A passionate backend developer and DevOps from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltajgafarli&label=Profile%20views&color=0e75b6&style=flat" alt="eltajgafarli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltaj-gafarli&label=Profile%20views&color=0e75b6&style=flat" alt="eltajgafarli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltajgafarli" alt="eltajgafarli" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltaj-gafarli" alt="eltajgafarli" /></a> </p>
 
 - 🌱 I’m currently learning **Golang, SpringBoot, Microservices, DevOps**
 
 - 💬 Ask me about **Java, GOlang, Python, C, C++, DSA, Linux**
 
-- 📫 How to reach me **eltajgafarli@gmail.com**
+- 📫 How to reach me **eltajgafarli1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
